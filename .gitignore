@@ -71,3 +71,8 @@ resources/cached/
 
 # Example checkpoints
 examples/.ipynb_checkpoints/
+
+# emacs backup and tmp files
+*~
+\#*\#
+.\#*
